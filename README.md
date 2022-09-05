@@ -1,4 +1,10 @@
 
+<h1 align="center">
+  <img src="assets/" width="100px" />
+  <br/>
+  <a href="#" target="blank_">Made In TOGO 228</a>
+</h1>
+
 
 <p align="center">
 👨🏽‍💻 This is a collection of tools built by Togolese developers that can be used by anyone all over the world 🌍
@@ -8,7 +14,7 @@
 
 
 
-p align="center">
+<p align="center">
 🚧 If you want to contribute on this project, please read <strong><a href="#">CONTRIBUTING.md</a></strong> first !
 </p>
 
