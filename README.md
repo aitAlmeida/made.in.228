@@ -7,16 +7,33 @@
 
 
 <p align="center">
-👨🏽‍💻 This is a collection of tools built by Togolese developers that can be used by anyone all over the world 🌍
+👨🏽‍💻 Il s'agit d'une collection d'outils construits par des développeurs togolais qui peuvent être utilisés par n'importe qui dans le monde entier.🌍
 </p>
 
 ---
 
+<p align="center">
+<a href="https://github.com/aitAlmeida/made.in.228"><img src="assets/"></a>
+</p>
+
+<p align="center">
+Si vous êtes le mainteneur d'un projet, vous pouvez ajouter notre badge en copiant le code ci-dessous ⬇️ dans la description de votre projet GitHub.
+</p>
 
 
 <p align="center">
-🚧 If you want to contribute on this project, please read <strong><a href="#">CONTRIBUTING.md</a></strong> first !
+<pre align="center">
+  <code>
+  [![Made-In-Senegal]()](https://github.com/aitAlmeida/made.in.228)
+  </code>
+</pre>
 </p>
+
+
+<p align="center">
+🚧 Si voulez contribuer sur ce projet veuillez lire ceci <strong><a href="https://github.com/aitAlmeida/made.in.228/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a></strong> en premier !
+</p>
+
 
 <div align="center">
 <a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | 
