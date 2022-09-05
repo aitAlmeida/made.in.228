@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="assets/" width="100px" />
+  <img src="assets/madein228.png" width="100px" />
   <br/>
   <a href="#" target="blank_">Made In TOGO 228</a>
 </h1>
