@@ -23,3 +23,21 @@ p align="center">
 
 
 ## <a name="A"> </a>A
+
+
+## <a name="B"> </a>B
+
+
+## <a name="C"> </a>C
+
+
+## <a name="D"> </a>D
+
+
+## <a name="E"> </a>E
+
+
+## <a name="F"> </a>F
+
+
+## <a name="G"> </a>G
