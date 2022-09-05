@@ -39,5 +39,20 @@ p align="center">
 
 ## <a name="F"> </a>F
 
+- **[FingerPrintXamarin](https://github.com/egbakou/FingerPrintXamarin)** - Fingerprint authentication example in Xamarin.Forms. 
+**by [@egbakou](https://github.com/egbakou/egbakou)**
+**[lioncoding.com](https://lioncoding.com/)**
+
+- **[flutter_paygateglobal](https://github.com/bienvenuelisis/flutter_paygateglobal)** - Integrate easily the Paygate Global Platform into your Flutter app. **by [@ bienvenuelisis](https://github.com/bienvenuelisis/bienvenuelisis)** 
 
 ## <a name="G"> </a>G
+
+
+## <a name="I"> </a>I
+
+- **[inspi_quotes](https://github.com/Ethiel97/inspi_quotes)** - Flutter mobile app to display quotes **by [@Ethiel97](https://github.com/Ethiel97/Ethiel97)**
+
+## <a name="W"> </a>W
+
+- **[wallify](https://github.com/Ethiel97/wallify)** - wallpaper mobile app built with Flutter. **by [@Ethiel97](https://github.com/Ethiel97/Ethiel97)**
+
