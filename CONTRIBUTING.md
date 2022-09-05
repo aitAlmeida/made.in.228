@@ -1,6 +1,7 @@
 # Contribuer à ce projet
 
-👋🏽 Merci d'avoir manifesté de l'intérêt et de votre aide Si vous êtes coincé quelque part, contactez-nous au **[telegram]()** 🤙🏾
+👋🏽 Merci d'avoir manifesté de l'intérêt et de votre aide.
+ Si vous êtes coincé quelque part, contactez-nous sur **[telegram](https://t.me/romanov2107)** 🤙🏾
 
 ## Exigences 🎯
 
