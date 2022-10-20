@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="assets/madein228.png" width="100px" />
   <br/>
-  <a href="#" target="blank_">Made In TOGO 228</a>
+  <a href="#" target="blank_">Made In 228</a>
 </h1>
 
 
@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/aitAlmeida/made.in.228"><img src="assets/"></a>
+<a href="https://github.com/aitAlmeida/made.in.228"><img src="assets/banniere.png"></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Si vous êtes le mainteneur d'un projet, vous pouvez ajouter notre badge en copi
 <p align="center">
 <pre align="center">
   <code>
-  [![Made-In-Senegal]()](https://github.com/aitAlmeida/made.in.228)
+  [![Made-In-228]()](https://github.com/aitAlmeida/made.in.228)
   </code>
 </pre>
 </p>
