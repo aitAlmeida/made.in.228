@@ -17,11 +17,6 @@
 </p>
 
 <p align="center">
-Si vous êtes le mainteneur d'un projet, vous pouvez ajouter notre badge en copiant le code ci-dessous ⬇️ dans la description de votre projet GitHub.
-</p>
-
-
-<p align="center">
 <pre align="center">
   <code>
   [![Made-In-228]()](https://github.com/aitAlmeida/made.in.228)
